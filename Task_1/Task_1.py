@@ -1,0 +1,4 @@
+a = int(input("Введите значение a: "))
+b = int(input("Введите значение b: "))
+for i in range(a, b + 1):
+    print(i, end=" ")
